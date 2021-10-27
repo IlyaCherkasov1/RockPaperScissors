@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQk1cP8ud80KH5+L/9ZgwEcSdjCS6MqcEGMo8KQc7TYW8L0Aa6VFSAUj0/pA/YvWpjrFqsl6yvmzXiD6Ty+JJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\datatableprettyprinter\\0.2.0\\datatableprettyprinter.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
